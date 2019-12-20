@@ -1,2 +1,7 @@
 this is amaster branch
+<<<<<<< HEAD
 this is my change
+=======
+this is most imortnt line
+this  my new changes
+>>>>>>> 41a0ed3a708a5d6d9e4631b8f89bffede846bacb
